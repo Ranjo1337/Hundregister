@@ -1,5 +1,3 @@
-// namn: Oscar Gelin
-// användarnamn: osge0455
 public class Dog {
 	
 	private String name;
@@ -7,14 +5,11 @@ public class Dog {
 	private int age;
 	private double weight;
 	
-	
 	public Dog(String name, String race, int age, double weight) {
 		this.name = name;
 		this.race = race;
 		this.age = age;
 		this.weight = weight;
-		
-	
 	}
 	
 	public String toString() {
@@ -61,8 +56,7 @@ public class Dog {
 	}
 	
 	public void birthday() {
-		age++;
-		
+		age++;	
 	}
 	
 	public void setWeight(double weight) {
