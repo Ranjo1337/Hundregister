@@ -1,9 +1,5 @@
-// namn: Oscar Gelin
-// användarnamn: osge0455
-
 import java.util.Scanner;
 import java.util.ArrayList;
-
 
 
 public class Kennel {
